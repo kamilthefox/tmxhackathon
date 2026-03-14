@@ -1,0 +1,16 @@
+{
+  "index": 431,
+  "prompt": "metro seat with graffiti marker drawings, vandalized fabric, colorful tags",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 1381126542,
+  "filename": "0431_cat1_cat5_metro_seat_with_graffiti_seed1381126542.png"
+}

@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+*.log
+output/
+.git
+.gitignore
+README.md
+.env
+*.swp
+*.swo

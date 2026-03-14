@@ -1,0 +1,16 @@
+{
+  "index": 804,
+  "prompt": "subway train car interior, wall with informational poster, torn poster edges, marker graffiti around it, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd",
+  "categories": [
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 1117554123,
+  "filename": "0804_cat3_cat5_subway_train_car_interior_seed1117554123.png"
+}

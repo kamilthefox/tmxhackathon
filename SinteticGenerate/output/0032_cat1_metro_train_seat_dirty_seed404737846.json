@@ -1,0 +1,12 @@
+{
+  "index": 32,
+  "prompt": "metro train seat, dirty stained fabric, grime, worn surface, close-up view",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    }
+  ],
+  "seed": 404737846,
+  "filename": "0032_cat1_metro_train_seat_dirty_seed404737846.png"
+}

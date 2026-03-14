@@ -1,0 +1,84 @@
+# Игнорировать все .bin файлы и папки bin
+*.bin
+bin/
+*/bin/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Папки Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Пакеты (это то, что вам нужно)
+/Packages/
+/Packages/packages-lock.json
+PackageCache/
+*/PackageCache/
+
+# Артефакты
+Artifacts/
+*/Artifacts/
+
+# MemoryCaptures
+MemoryCaptures/
+*/MemoryCaptures/
+
+# Результаты тестов
+TestResults/
+*/TestResults/
+
+# Crashlytics
+Crashlytics/
+*/Crashlytics/
+
+# Платформо-зависимые папки
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+
+# Файлы логов
+*.log
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+
+# Файлы IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.orig
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet
+packages/
+*.nupkg
+
+# Прочее
+*.pid
+*.seed
+*.pid.lock
+*.userprefs
+*.user
+*.tmp
+*.temp

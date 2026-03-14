@@ -1,0 +1,24 @@
+{
+  "index": 936,
+  "prompt": "subway train car interior, wide shot, graffiti on walls, dirty windows, worn torn seats, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, wide shot",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    },
+    {
+      "id_cat": 6,
+      "name": "Стекло"
+    }
+  ],
+  "seed": 2999642775,
+  "filename": "0936_cat1_cat3_cat5_cat6_subway_train_car_interior_seed2999642775.png"
+}

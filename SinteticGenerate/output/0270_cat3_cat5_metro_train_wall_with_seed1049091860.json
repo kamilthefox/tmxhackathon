@@ -1,0 +1,16 @@
+{
+  "index": 270,
+  "prompt": "metro train wall with scratched graffiti tags, etched surface, vandalism",
+  "categories": [
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 1049091860,
+  "filename": "0270_cat3_cat5_metro_train_wall_with_seed1049091860.png"
+}

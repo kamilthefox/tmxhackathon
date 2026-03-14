@@ -1,0 +1,12 @@
+{
+  "index": 81,
+  "prompt": "dirty subway bench seat, multiple passengers spots, worn plastic, grimy surface",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    }
+  ],
+  "seed": 4213057816,
+  "filename": "0081_cat1_dirty_subway_bench_seat_seed4213057816.png"
+}

@@ -1,0 +1,12 @@
+{
+  "index": 1024,
+  "prompt": "subway train car interior, torn seat upholstery, ripped fabric edge, grey padding visible underneath, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, macro, close-up",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    }
+  ],
+  "seed": 2059895688,
+  "filename": "1024_cat1_subway_train_car_interior_seed2059895688.png"
+}

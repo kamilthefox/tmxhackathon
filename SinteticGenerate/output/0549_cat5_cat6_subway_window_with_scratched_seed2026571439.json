@@ -1,0 +1,16 @@
+{
+  "index": 549,
+  "prompt": "subway window with scratched graffiti tags, etched surface, vandalism",
+  "categories": [
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    },
+    {
+      "id_cat": 6,
+      "name": "Стекло"
+    }
+  ],
+  "seed": 2026571439,
+  "filename": "0549_cat5_cat6_subway_window_with_scratched_seed2026571439.png"
+}

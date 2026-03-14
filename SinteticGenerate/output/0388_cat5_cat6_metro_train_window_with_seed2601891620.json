@@ -1,0 +1,16 @@
+{
+  "index": 388,
+  "prompt": "metro train window with etched graffiti, scratched glass surface, tags",
+  "categories": [
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    },
+    {
+      "id_cat": 6,
+      "name": "Стекло"
+    }
+  ],
+  "seed": 2601891620,
+  "filename": "0388_cat5_cat6_metro_train_window_with_seed2601891620.png"
+}

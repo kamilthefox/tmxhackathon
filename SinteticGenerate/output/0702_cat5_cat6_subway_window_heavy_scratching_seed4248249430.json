@@ -1,0 +1,16 @@
+{
+  "index": 702,
+  "prompt": "subway window, heavy scratching etched graffiti, damaged glass surface",
+  "categories": [
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    },
+    {
+      "id_cat": 6,
+      "name": "Стекло"
+    }
+  ],
+  "seed": 4248249430,
+  "filename": "0702_cat5_cat6_subway_window_heavy_scratching_seed4248249430.png"
+}

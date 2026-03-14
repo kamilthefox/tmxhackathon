@@ -1,0 +1,24 @@
+{
+  "index": 594,
+  "prompt": "metro train interior, graffiti on walls, dirty windows, worn seats, photorealistic",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    },
+    {
+      "id_cat": 6,
+      "name": "Стекло"
+    }
+  ],
+  "seed": 1738863739,
+  "filename": "0594_cat1_cat3_cat5_cat6_metro_train_interior_graffiti_seed1738863739.png"
+}

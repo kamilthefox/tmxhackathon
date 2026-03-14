@@ -1,0 +1,20 @@
+{
+  "index": 909,
+  "prompt": "subway train car interior, wide view, dirty rubber floor, torn seats, grimy metal poles, fluorescent lighting, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, wide shot",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 2,
+      "name": "Поручень"
+    },
+    {
+      "id_cat": 4,
+      "name": "Пол"
+    }
+  ],
+  "seed": 2747127824,
+  "filename": "0909_cat1_cat2_cat4_subway_train_car_interior_seed2747127824.png"
+}

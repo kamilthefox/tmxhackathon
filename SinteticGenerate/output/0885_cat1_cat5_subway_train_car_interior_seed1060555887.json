@@ -1,0 +1,16 @@
+{
+  "index": 885,
+  "prompt": "subway train car interior, seat fabric with permanent marker drawings and tags, vandalized upholstery, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, macro, close-up",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 1060555887,
+  "filename": "0885_cat1_cat5_subway_train_car_interior_seed1060555887.png"
+}

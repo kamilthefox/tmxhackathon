@@ -1,0 +1,24 @@
+{
+  "index": 825,
+  "prompt": "subway interior, graffiti on multiple surfaces, walls seats poles, urban decay, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, wide shot",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 2,
+      "name": "Поручень"
+    },
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 855277604,
+  "filename": "0825_cat1_cat2_cat3_cat5_subway_interior_graffiti_on_seed855277604.png"
+}

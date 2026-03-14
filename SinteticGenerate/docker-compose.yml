@@ -1,0 +1,35 @@
+services:
+  synthetic-gen:
+    build: ./src
+    container_name: synthetic-gen
+    volumes:
+      # Монтируем папку для выходных изображений
+      - ./output3:/app/output
+      # Монтируем лог файл (чтобы видеть снаружи)
+      # - ./generation.log:/app/generation.log
+      # Если хочешь править конфиг без пересборки — раскомментируй:
+      # - ./config.py:/app/config.py:ro
+    network_mode: host 
+
+# ─────────────────────────────────────────────────────────────
+# ПРИМЕРЫ ЗАПУСКА:
+# ─────────────────────────────────────────────────────────────
+# 
+# Запуск с настройками по умолчанию (из config.py):
+#   docker-compose up
+#
+# Запуск с кастомным количеством картинок:
+#   docker-compose run --rm synthetic-gen --count 10
+#
+# Dry-run (посмотреть промпты без генерации):
+#   docker-compose run --rm synthetic-gen --dry-run
+#
+# Использовать свой файл промптов (сначала положи в ./):
+#   docker-compose run --rm synthetic-gen --prompts-file /app/my_prompts.txt
+#
+# Пересобрать образ после изменения кода:
+#   docker-compose build
+#
+# Удалить контейнер и образ:
+#   docker-compose down
+#   docker rmi synthetic_gen-synthetic-gen

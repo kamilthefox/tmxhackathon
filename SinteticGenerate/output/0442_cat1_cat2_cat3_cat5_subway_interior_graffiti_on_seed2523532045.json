@@ -1,0 +1,24 @@
+{
+  "index": 442,
+  "prompt": "subway interior, graffiti on multiple surfaces, walls seats poles, urban decay",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 2,
+      "name": "Поручень"
+    },
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 2523532045,
+  "filename": "0442_cat1_cat2_cat3_cat5_subway_interior_graffiti_on_seed2523532045.png"
+}

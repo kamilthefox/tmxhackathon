@@ -1,0 +1,24 @@
+{
+  "index": 960,
+  "prompt": "subway train car interior, aged worn interior, dirty windows, torn seats, grimy poles, worn floor, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, wide shot",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 2,
+      "name": "Поручень"
+    },
+    {
+      "id_cat": 4,
+      "name": "Пол"
+    },
+    {
+      "id_cat": 6,
+      "name": "Стекло"
+    }
+  ],
+  "seed": 3086382586,
+  "filename": "0960_cat1_cat2_cat4_cat6_subway_train_car_interior_seed3086382586.png"
+}

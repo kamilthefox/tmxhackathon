@@ -1,0 +1,16 @@
+{
+  "index": 1021,
+  "prompt": "subway window, heavy scratching etched graffiti, damaged glass surface, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, macro, close-up",
+  "categories": [
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    },
+    {
+      "id_cat": 6,
+      "name": "Стекло"
+    }
+  ],
+  "seed": 334919953,
+  "filename": "1021_cat5_cat6_subway_window_heavy_scratching_seed334919953.png"
+}

@@ -1,0 +1,20 @@
+{
+  "index": 563,
+  "prompt": "subway car interior wide view, dirty floor, torn seats, grimy handrails, realistic",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 2,
+      "name": "Поручень"
+    },
+    {
+      "id_cat": 4,
+      "name": "Пол"
+    }
+  ],
+  "seed": 4100282839,
+  "filename": "0563_cat1_cat2_cat4_subway_car_interior_wide_seed4100282839.png"
+}

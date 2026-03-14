@@ -1,0 +1,16 @@
+{
+  "index": 945,
+  "prompt": "subway train car interior, floor corner meeting scratched wall, accumulated grime, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, macro, close-up",
+  "categories": [
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 4,
+      "name": "Пол"
+    }
+  ],
+  "seed": 16369304,
+  "filename": "0945_cat3_cat4_subway_train_car_interior_seed16369304.png"
+}

@@ -1,0 +1,16 @@
+{
+  "index": 621,
+  "prompt": "subway car corner, dirty floor meeting scratched wall, accumulated grime, realistic",
+  "categories": [
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 4,
+      "name": "Пол"
+    }
+  ],
+  "seed": 3247591559,
+  "filename": "0621_cat3_cat4_subway_car_corner_dirty_seed3247591559.png"
+}

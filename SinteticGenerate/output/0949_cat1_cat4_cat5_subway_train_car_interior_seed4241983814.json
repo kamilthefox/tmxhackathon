@@ -1,0 +1,20 @@
+{
+  "index": 949,
+  "prompt": "subway train car interior, vandalized seats with graffiti marker tags, dirty floor, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 4,
+      "name": "Пол"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 4241983814,
+  "filename": "0949_cat1_cat4_cat5_subway_train_car_interior_seed4241983814.png"
+}

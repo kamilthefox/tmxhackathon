@@ -1,0 +1,12 @@
+{
+  "index": 50,
+  "prompt": "subway seat with deep cut, vandalism damage, torn material, interior lighting",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    }
+  ],
+  "seed": 117327878,
+  "filename": "0050_cat1_subway_seat_with_deep_seed117327878.png"
+}

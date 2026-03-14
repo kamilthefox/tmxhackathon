@@ -1,0 +1,20 @@
+{
+  "index": 659,
+  "prompt": "subway interior, vandalized seats with graffiti, dirty floor, realistic",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 4,
+      "name": "Пол"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 696937239,
+  "filename": "0659_cat1_cat4_cat5_subway_interior_vandalized_seats_seed696937239.png"
+}

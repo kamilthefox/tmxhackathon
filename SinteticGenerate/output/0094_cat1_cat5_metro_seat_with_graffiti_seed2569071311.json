@@ -1,0 +1,16 @@
+{
+  "index": 94,
+  "prompt": "metro seat with graffiti marker stains, scribbles on fabric, vandalized",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 2569071311,
+  "filename": "0094_cat1_cat5_metro_seat_with_graffiti_seed2569071311.png"
+}

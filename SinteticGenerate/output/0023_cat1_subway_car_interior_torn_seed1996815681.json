@@ -1,0 +1,12 @@
+{
+  "index": 23,
+  "prompt": "subway car interior, torn fabric seat, ripped upholstery, visible foam padding, realistic, photorealistic",
+  "categories": [
+    {
+      "id_cat": 1,
+      "name": "Сиденье"
+    }
+  ],
+  "seed": 1996815681,
+  "filename": "0023_cat1_subway_car_interior_torn_seed1996815681.png"
+}

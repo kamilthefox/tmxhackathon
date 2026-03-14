@@ -1,0 +1,16 @@
+{
+  "index": 403,
+  "prompt": "subway car wall with layered graffiti, multiple colors, overlapping tags",
+  "categories": [
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 2630751703,
+  "filename": "0403_cat3_cat5_subway_car_wall_with_seed2630751703.png"
+}

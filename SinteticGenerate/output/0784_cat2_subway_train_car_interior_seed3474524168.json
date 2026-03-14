@@ -1,0 +1,12 @@
+{
+  "index": 784,
+  "prompt": "subway train car interior, stainless steel pole, greasy surface, dirt layer, oxidation spots, photorealistic, RAW photo, highly detailed, sharp focus, 8k uhd, macro, close-up",
+  "categories": [
+    {
+      "id_cat": 2,
+      "name": "Поручень"
+    }
+  ],
+  "seed": 3474524168,
+  "filename": "0784_cat2_subway_train_car_interior_seed3474524168.png"
+}

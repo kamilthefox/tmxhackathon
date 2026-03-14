@@ -1,0 +1,16 @@
+{
+  "index": 198,
+  "prompt": "metro train wall with informational poster, torn edges, graffiti markers, realistic",
+  "categories": [
+    {
+      "id_cat": 3,
+      "name": "Стена"
+    },
+    {
+      "id_cat": 5,
+      "name": "Граффити"
+    }
+  ],
+  "seed": 3748097607,
+  "filename": "0198_cat3_cat5_metro_train_wall_with_seed3748097607.png"
+}

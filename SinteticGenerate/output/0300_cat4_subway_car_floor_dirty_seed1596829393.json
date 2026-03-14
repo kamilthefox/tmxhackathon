@@ -1,0 +1,12 @@
+{
+  "index": 300,
+  "prompt": "subway car floor, dirty non-slip surface, grime in texture grooves, realistic",
+  "categories": [
+    {
+      "id_cat": 4,
+      "name": "Пол"
+    }
+  ],
+  "seed": 1596829393,
+  "filename": "0300_cat4_subway_car_floor_dirty_seed1596829393.png"
+}
